@@ -4,33 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.activities.LoadingActivity">
+    tools:context=".ui.activities.InternetRemoteActivity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/internet_remote_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CHANGER L'ÉTAT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
-        android:id="@+id/loading_logoeseo"
+        android:id="@+id/image_on_off"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="200dp"
-        android:contentDescription="@string/logo_eseo"
-        android:src="@mipmap/logoeseo_round"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></ImageView>
-
-
-    <TextView
-        android:id="@+id/loading_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:ellipsize="marquee"
-        android:scrollHorizontally="true"
-        android:singleLine="true"
-        android:text="@string/app_name"
-        android:textSize="100dp"
+        android:contentDescription="@string/led_representation"
+        android:src="@drawable/ic_baseline_wb_sunny_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 

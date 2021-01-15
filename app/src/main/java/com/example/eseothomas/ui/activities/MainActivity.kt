@@ -1,4 +1,4 @@
-package com.example.eseothomas.activities
+package com.example.eseothomas.ui.activities
 
 import android.content.Context
 import android.content.Intent

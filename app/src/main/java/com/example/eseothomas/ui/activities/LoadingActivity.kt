@@ -1,4 +1,4 @@
-package com.example.eseothomas.activities
+package com.example.eseothomas.ui.activities
 
 import android.os.Bundle
 import android.os.Handler

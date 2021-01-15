@@ -2,4 +2,26 @@
 <resources>
     <string name="app_name">Eseo is my life</string>
     <string name="command_internet">CONTROL BY WEB</string>
+    <string name="scan_start_scan">START SCAN</string>
+    <string name="scan_disconnection">DECONNECTION</string>
+    <string name="scan_toggleLED">ON/OFF</string>
+    <string name="scan_connected_to">CONNECTED TO %s</string>
+    <string name="scan_ended">Scan over !</string>
+    <string name="trying_connection_to">I\'m trying to connect to %s</string>
+    <string name="uuid_not_found">UUID Not found</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="enable_ble_notifications">BLE Notification activated</string>
+    <string name="command_BLE">CONTROL VIA BLE</string>
+    <string name="scan_title_dialog">Localisation Permission</string>
+    <string name="scan_message_dialog">Looks like you have denied location permission, this app requires the use of location to be able to scan nearby devices</string>
+    <string name="scan_perma_deny_message_dialog">" You have permanently denied the location permission for the app, This app needs this permission to work. In order to remedy this problem, a page will open and you will have to go to \"application authorization\" select Eseo c'est bo la vie and authorize this application."</string>
+    <string name="scan_off">OFF</string>
+    <string name="scan_on">ON</string>
+    <string name="not_compatible">Your Device is not compatible with BLE</string>
+    <string name="logo_bluetooth">logo Bluetooth</string>
+    <string name="logo_eseo" translatable="false">logo ESEO</string>
+    <string name="indication_status_led">" Image indicating the status of the led"</string>
+    <string name="led_representation">LED representation</string>
+    <string name="no_id_last_co">No id</string>
+    <string name="msg_dialog_last_device">you have to connect via the BLE on a device to connect via the internet (I know it\'s strange but don\'t worry it\'s normal, it\'s to retrieve the identifier)</string>
 </resources>

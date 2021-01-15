@@ -1,4 +1,4 @@
-package com.example.eseothomas.activities
+package com.example.eseothomas.ui.activities
 
 import Device
 import android.Manifest
@@ -145,10 +145,6 @@ class ScanActivity : AppCompatActivity() {
                     builder.setTitle(getString(R.string.scan_title_dialog))
                     builder.setMessage(getString(R.string.scan_message_dialog))
                     builder.setPositiveButton(android.R.string.yes) { _, _ ->
-                        Toast.makeText(
-                            this,
-                            android.R.string.yes, Toast.LENGTH_SHORT
-                        ).show()
                         askForPermission()
                     }
                     builder.show()
@@ -157,10 +153,6 @@ class ScanActivity : AppCompatActivity() {
                     builder.setTitle(getString(R.string.scan_title_dialog))
                     builder.setMessage(getString(R.string.scan_perma_deny_message_dialog))
                     builder.setPositiveButton(android.R.string.yes) { _, _ ->
-                        Toast.makeText(
-                            this,
-                            android.R.string.yes, Toast.LENGTH_SHORT
-                        ).show()
                         startActivity(Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS))
                     }
                     builder.show()
@@ -330,7 +322,7 @@ class ScanActivity : AppCompatActivity() {
             scan_currentConnexion.visibility = View.VISIBLE
             scan_ledStatus.visibility = View.VISIBLE
             scan_currentConnexion.text =
-                getString(R.string.connected_to, MyBluetoothManager.currentDevice?.name)
+                getString(R.string.scan_connected_to, MyBluetoothManager.currentDevice?.name)
             scan_disconnect.visibility = View.VISIBLE
             scan_toggleLed.visibility = View.VISIBLE
         } else {

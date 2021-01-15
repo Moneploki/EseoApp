@@ -2,4 +2,26 @@
 <resources>
     <string name="app_name">ESEO，生活很美</string>
     <string name="command_internet">通过互联网订购</string>
+    <string name="scan_message_dialog">似乎您已拒绝位置信息许可，此应用需要使用位置信息才能扫描附近的设备</string>
+    <string name="scan_perma_deny_message_dialog">" 您已永久拒绝该应用的位置权限，此应用需要此权限才能工作。为了解决此问题，将打开一个页面，您必须转到“应用程序授权”，然后选择Eseo c'est bo la vie并授权此应用程序。"</string>
+    <string name="not_compatible">" 您的设备与BLE不兼容"</string>
+    <string name="logo_bluetooth" translatable="false">" 徽标蓝牙"</string>
+    <string name="logo_eseo" translatable="false">徽标ESEO</string>
+    <string name="indication_status_led">" 该图表示LED的状态"</string>
+    <string name="scan_off">关掉</string>
+    <string name="scan_on">点亮</string>
+    <string name="scan_title_dialog">权限位置</string>
+    <string name="command_BLE">通过BLE订购</string>
+    <string name="enable_ble_notifications">BLE通知已启用</string>
+    <string name="not_connected">未连接</string>
+    <string name="uuid_not_found">找不到uuid</string>
+    <string name="trying_connection_to">我正在尝试连接到 %s</string>
+    <string name="scan_ended">扫描完成！</string>
+    <string name="scan_connected_to">已连接 %s</string>
+    <string name="scan_toggleLED">开机关机</string>
+    <string name="scan_disconnection">断开</string>
+    <string name="scan_start_scan">开始扫描</string>
+    <string name="led_representation">LED表示</string>
+    <string name="no_id_last_co">没有用户名</string>
+    <string name="msg_dialog_last_device">您必须通过设备上的BLE进行连接才能通过Internet连接（我知道这很奇怪，但担心这很正常，这是在检索标识符)</string>
 </resources>
