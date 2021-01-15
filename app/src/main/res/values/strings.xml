@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">EseoThomas</string>
+    <string name="app_name">Eseo C\'est Bo la vie</string>
+    <string name="command_internet">COMMANDER VIA INTERNET</string>
+    <string name="scan_start_scan">COMMENCER LE SCAN</string>
+    <string name="scan_disconnection">DÉCONNEXION</string>
+    <string name="scan_toggleLED">ALLUMER/ÉTEINDRE</string>
+    <string name="scan_connected_to">CONNECTÉ À</string>
+    <string name="scan_ended">Scan Terminé !</string>
+    <string name="trying_connection_to">j\'essaye de me connecter à %s</string>
+    <string name="uuid_not_found">uuid introuvable</string>
+    <string name="not_connected">Non connecté</string>
+    <string name="connected_to">Connecté à : %s</string>
+    <string name="enable_ble_notifications">Notifications BLE activé</string>
+    <string name="command_BLE">COMMANDER VIA BLE</string>
+    <string name="scan_title_dialog">Permission Localisation</string>
+    <string name="scan_message_dialog">Il semble que vous avez refusé la permission de localisation, cette application nécessite l\'utilisation de la localisation pour pouvoir scanner les appareils à proximité</string>
+    <string name="scan_perma_deny_message_dialog">Vous avez refusé de manière permanente la permission de localisation pour l\'application, Cette application à besoin de cette autorisation pour fonctionner. Afin de remédier à ce problème, une page va s\'ouvrir et vous devrez aller dans \"autorisation des applications\" sélectionner Eseo c\'est bo la vie et autoriser cette application.</string>
+    <string name="scan_off">ETEINDRE</string>
+    <string name="scan_on">ALLUMER</string>
+    <string name="not_compatible">Téléphone non compatible BLE</string>
+    <string name="logo_bluetooth">logo Bluetooth</string>
+    <string name="logo_eseo">logo ESEO</string>
+    <string name="indication_status_led">Image d\'indication du status de la led</string>
 </resources>
