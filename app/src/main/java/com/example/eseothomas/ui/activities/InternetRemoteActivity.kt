@@ -1,5 +1,7 @@
 package com.example.eseothomas.ui.activities
 
+import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AlertDialog
@@ -16,11 +18,18 @@ import kotlinx.coroutines.launch
 class InternetRemoteActivity : AppCompatActivity() {
 
     private var ledStatus = LedStatus()
-    private val rotate = AnimationUtils.loadAnimation(this, R.anim.rotationfinite)
+
+
+    companion object {
+        fun getStartIntent(context: Context): Intent {
+            return Intent(context, InternetRemoteActivity::class.java)
+        }
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_internet_remote)
+
         if (LocalPreferences.getInstance(this).lastConnectedDeviceName() == null) {
             val builder = AlertDialog.Builder(this)
             builder.setTitle(getString(R.string.no_id_last_co))
@@ -40,6 +49,7 @@ class InternetRemoteActivity : AppCompatActivity() {
         }
         image_on_off.setOnClickListener {
             getStatus()
+            val rotate = AnimationUtils.loadAnimation(this, R.anim.rotationfinite)
             image_on_off.startAnimation(rotate)
         }
     }
