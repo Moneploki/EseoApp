@@ -24,4 +24,5 @@
     <string name="led_representation">LED表示</string>
     <string name="no_id_last_co">没有用户名</string>
     <string name="msg_dialog_last_device">您必须通过设备上的BLE进行连接才能通过Internet连接（我知道这很奇怪，但担心这很正常，这是在检索标识符)</string>
+    <string name="noInternet">激活互联网！</string>
 </resources>

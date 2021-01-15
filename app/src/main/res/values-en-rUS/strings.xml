@@ -24,4 +24,5 @@
     <string name="led_representation">LED representation</string>
     <string name="no_id_last_co">No id</string>
     <string name="msg_dialog_last_device">you have to connect via the BLE on a device to connect via the internet (I know it\'s strange but don\'t worry it\'s normal, it\'s to retrieve the identifier)</string>
+    <string name="noInternet">Activate internet !</string>
 </resources>

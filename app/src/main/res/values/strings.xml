@@ -23,4 +23,5 @@
     <string name="led_representation">représentation de la LED</string>
     <string name="no_id_last_co">pas d\'identifiant</string>
     <string name="msg_dialog_last_device">"il faut que vous vous connectiez via le BLE sur un device pour vous  connecter via internet (je sais c'est chelou mais tkt c'est normal c'est pour récup l'id) "</string>
+    <string name="noInternet">Active Internet !</string>
 </resources>
