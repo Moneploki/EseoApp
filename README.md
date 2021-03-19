@@ -20,11 +20,14 @@ pour cela il faut ouvrire un terminal dans le bon dossier -> le dossier USBFake
  
 
  1. ouvrire un terminal n'importe où (via la touche windows et écrivez terminal puis entrée ) et tapez la commande 
- 2. 
+ 
+
+    cd < chemin vers le dosier >
+     
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzI5MTc3NywtNTQxMjEyNSw5OTE1Mz
+eyJoaXN0b3J5IjpbMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1Mz
 M1NzUsLTE3MDIxMDg3ODRdfQ==
 -->
