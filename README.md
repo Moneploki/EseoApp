@@ -23,11 +23,19 @@ pour cela il faut ouvrire un terminal dans le bon dossier -> le dossier USBFake
  
 
     cd < chemin vers le dosier >
+puis 
+
+    sudo ./preinstallPC.sh
+
+
+
+
+ 
      
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1Mz
-M1NzUsLTE3MDIxMDg3ODRdfQ==
+eyJoaXN0b3J5IjpbNDExMjM3MTQ2LDExOTg4ODUzMDUsLTU0MT
+IxMjUsOTkxNTMzNTc1LC0xNzAyMTA4Nzg0XX0=
 -->
