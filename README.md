@@ -13,11 +13,13 @@ ensuite pluggez la clé dans le PC à installer et exécutez le script preinstal
 
 > Comment faire ?
 
-pour cela il faut être dans le bon dossier -> le dossier USBFake 
+pour cela il faut ouvrire un terminal dans le bon dossier -> le dossier USBFake 
+
+> 2 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTIxMjUsOTkxNTMzNTc1LC0xNzAyMT
-A4Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE3Mjk5MjMyNDcsLTU0MTIxMjUsOTkxNT
+MzNTc1LC0xNzAyMTA4Nzg0XX0=
 -->
