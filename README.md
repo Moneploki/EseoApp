@@ -38,14 +38,15 @@ Cette commande fait dans l'ordre :
 
 ensuite cela une fois fait il vous faudra changer d'utilisateur via l'interface graphique de base et chosir l'utilisateur kiosk
 ![comment changer utilisateur](https://i.ibb.co/tPgFz7m/tuto-linux-2.png)Puis ré-ouvrez un terminal DANS LE FICHIER USBFake 
-ensuite ex
+ensuite faite la commande 
 
+    sudo ./preinstallPC.sh
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMDY2MjE0LDE4NjMwNjU1NCwtNTI5Mz
-cxNzk4LC0xNjc1NzQ4NzY3LC00MDA2ODExNzAsMzk2MTQyNTc5
-LC0xNTM3NzgwOTE1LDExOTg4ODUzMDUsLTU0MTIxMjUsOTkxNT
-MzNTc1LC0xNzAyMTA4Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE4ODk5MzU0ODMsMTg2MzA2NTU0LC01Mj
+kzNzE3OTgsLTE2NzU3NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1
+NzksLTE1Mzc3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OT
+E1MzM1NzUsLTE3MDIxMDg3ODRdfQ==
 -->
