@@ -46,13 +46,14 @@ ce script fait dans l'ordre :
  - un copie de ma clé SSH (grosso merdo un accès a mon compte github pour pouvoir copier le code) dans le répertoir associé sur le root
  - update les packages si besoin
  - install les packages suivant : "build-essential git libx11-dev minicom libxml-xpath-perl npm telegraf"
- - 
+ - importe le code source depuis gitHub dans /root/YellowNetworkSensors
+ - copie les daemons (ce qui autoStart le code lors du dém 
  - 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjcyMzA4NiwtMTcwMTcxOTI1NSwtMT
+eyJoaXN0b3J5IjpbMTA5MDkxODAwNCwtMTcwMTcxOTI1NSwtMT
 g4OTkzNTQ4MywxODYzMDY1NTQsLTUyOTM3MTc5OCwtMTY3NTc0
 ODc2NywtNDAwNjgxMTcwLDM5NjE0MjU3OSwtMTUzNzc4MDkxNS
 wxMTk4ODg1MzA1LC01NDEyMTI1LDk5MTUzMzU3NSwtMTcwMjEw
