@@ -3,6 +3,9 @@
 le code C pour la communication avec l'arduino/traitement des infos 
 
 # Installation
+cette install est basée sur : https://www.notion.so/Installation-PC-4c371831a0954846ac36a14b0d3e24ce
+
+
 prendre la dernière release sur ce github
 
 dézipper le zip 
@@ -14,7 +17,7 @@ ensuite pluggez la clé dans le PC à installer et exécutez le script preinstal
 
 > Comment faire ?
 
-pour cela il faut ouvrire un terminal dans le bon dossier -> le dossier USBFake 
+pour cela il faut ouvrir un terminal dans le bon dossier -> le dossier USBFake 
 
 ![comment ouvrir un terminal](https://i.ibb.co/3Rd97vB/tuto-linux.png)
 puis entrez la commande : (si vous ne pouvez pas essayez de faire un "chmod +x *.sh" avant) 
@@ -38,7 +41,8 @@ Cette commande fait dans l'ordre :
     sudo -H gedit /home/kiosk/kiosk.sh
 
 ensuite cela une fois fait il vous faudra changer d'utilisateur via l'interface graphique de base et chosir l'utilisateur kiosk
-![comment changer utilisateur](https://i.ibb.co/tPgFz7m/tuto-linux-2.png)Puis ré-ouvrez un terminal DANS LE FICHIER USBFake 
+![comment changer utilisateur](https://i.ibb.co/tPgFz7m/tuto-linux-2.png)
+Puis ré-ouvrez un terminal DANS LE FICHIER USBFake 
 ensuite faite la commande 
 
     sudo ./install_script_YN.sh
@@ -58,7 +62,7 @@ ce script fait dans l'ordre :
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODE2MDk3MiwxMzg2MzY3NzAsMTM2ND
+eyJoaXN0b3J5IjpbMTI0NDk3MzMwMCwxMzg2MzY3NzAsMTM2ND
 c1ODQxNSwtMTcwMTcxOTI1NSwtMTg4OTkzNTQ4MywxODYzMDY1
 NTQsLTUyOTM3MTc5OCwtMTY3NTc0ODc2NywtNDAwNjgxMTcwLD
 M5NjE0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEy
