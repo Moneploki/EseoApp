@@ -31,14 +31,17 @@ Cette commande fait dans l'ordre :
  
  
 
-> pour changer la page en fonction de la mairie il faudra modifier le fichier kiosk.sh et plus particulièrement l'url pré
+> pour changer la page en fonction de la mairie il faudra modifier le fichier kiosk.sh et plus particulièrement l'url présent.
+> cette commande ouvrira le fichier :
+
+    sudo gedit /home/kiosk/kiosk.sh
 
  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzkzODIzNCwtNDAwNjgxMTcwLDM5Nj
-E0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1
-LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
+eyJoaXN0b3J5IjpbLTE2NzU3NDg3NjcsLTQwMDY4MTE3MCwzOT
+YxNDI1NzksLTE1Mzc3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEy
+NSw5OTE1MzM1NzUsLTE3MDIxMDg3ODRdfQ==
 -->
