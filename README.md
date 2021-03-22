@@ -15,8 +15,7 @@ ensuite pluggez la clé dans le PC à installer et exécutez le script preinstal
 
 pour cela il faut ouvrire un terminal dans le bon dossier -> le dossier USBFake 
 
-https://ibb.co/kmBsxJQ
-
+![comment ouvrir un terminal](https://i.ibb.co/3Rd97vB/tuto-linux.png)
 puis entrez la commande :
 
     sudo ./preinstallPC.sh
@@ -26,7 +25,7 @@ puis entrez la commande :
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDY4MTE3MCwzOTYxNDI1NzksLTE1Mz
-c3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1MzM1NzUs
-LTE3MDIxMDg3ODRdfQ==
+eyJoaXN0b3J5IjpbLTYxMjQ3Mzk3NiwtNDAwNjgxMTcwLDM5Nj
+E0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1
+LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
 -->
