@@ -48,15 +48,18 @@ ce script fait dans l'ordre :
  - install les packages suivant : "build-essential git libx11-dev minicom libxml-xpath-perl npm telegraf"
  - importe le code source depuis gitHub dans /root/YellowNetworkSensors
  - copie les daemons (ce qui autoStart le code lors du démarrage) dans /etc/systemd/system/
- - puis reload les daemons
- - 
+ -  reload les daemons
+ - start les daemons
+ - active au démarrage les daemons
+ - vous affiche l'état des daemons 
+  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMxNzQxNDcsLTE3MDE3MTkyNTUsLT
-E4ODk5MzU0ODMsMTg2MzA2NTU0LC01MjkzNzE3OTgsLTE2NzU3
-NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1NzksLTE1Mzc3ODA5MT
-UsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1MzM1NzUsLTE3MDIx
-MDg3ODRdfQ==
+eyJoaXN0b3J5IjpbMTM2NDc1ODQxNSwtMTcwMTcxOTI1NSwtMT
+g4OTkzNTQ4MywxODYzMDY1NTQsLTUyOTM3MTc5OCwtMTY3NTc0
+ODc2NywtNDAwNjgxMTcwLDM5NjE0MjU3OSwtMTUzNzc4MDkxNS
+wxMTk4ODg1MzA1LC01NDEyMTI1LDk5MTUzMzU3NSwtMTcwMjEw
+ODc4NF19
 -->
