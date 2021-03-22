@@ -52,14 +52,14 @@ ce script fait dans l'ordre :
  - start les daemons
  - active au démarrage les daemons
  - vous affiche l'état des daemons 
-  
+ vous pouvez faire un CTRL-C une fois que tout marche et normalement l'install 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDc1ODQxNSwtMTcwMTcxOTI1NSwtMT
-g4OTkzNTQ4MywxODYzMDY1NTQsLTUyOTM3MTc5OCwtMTY3NTc0
-ODc2NywtNDAwNjgxMTcwLDM5NjE0MjU3OSwtMTUzNzc4MDkxNS
-wxMTk4ODg1MzA1LC01NDEyMTI1LDk5MTUzMzU3NSwtMTcwMjEw
-ODc4NF19
+eyJoaXN0b3J5IjpbLTEzMzYxMjg5NTMsMTM2NDc1ODQxNSwtMT
+cwMTcxOTI1NSwtMTg4OTkzNTQ4MywxODYzMDY1NTQsLTUyOTM3
+MTc5OCwtMTY3NTc0ODc2NywtNDAwNjgxMTcwLDM5NjE0MjU3OS
+wtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1LDk5MTUz
+MzU3NSwtMTcwMjEwODc4NF19
 -->
