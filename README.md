@@ -37,14 +37,15 @@ Cette commande fait dans l'ordre :
     sudo -H gedit /home/kiosk/kiosk.sh
 
 ensuite cela une fois fait il vous faudra changer d'utilisateur via l'interface graphique de base et chosir l'utilisateur kiosk
-![comment changer utilisateur](https://i.ibb.co/tPgFz7m/tuto-linux-2.png)
- 
+![comment changer utilisateur](https://i.ibb.co/tPgFz7m/tuto-linux-2.png)Puis ré-ouvrez un terminal DANS LE FICHIER USBFake 
+ensuite ex
+
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUxOTY3MSwxODYzMDY1NTQsLTUyOT
-M3MTc5OCwtMTY3NTc0ODc2NywtNDAwNjgxMTcwLDM5NjE0MjU3
-OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1LDk5MT
-UzMzU3NSwtMTcwMjEwODc4NF19
+eyJoaXN0b3J5IjpbODgyMDY2MjE0LDE4NjMwNjU1NCwtNTI5Mz
+cxNzk4LC0xNjc1NzQ4NzY3LC00MDA2ODExNzAsMzk2MTQyNTc5
+LC0xNTM3NzgwOTE1LDExOTg4ODUzMDUsLTU0MTIxMjUsOTkxNT
+MzNTc1LC0xNzAyMTA4Nzg0XX0=
 -->
