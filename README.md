@@ -23,12 +23,14 @@ Cette commande fait dans l'ordre :
 
  - une update de tout les packages, si besoin
  - ajout d'un utilisateur "kiosk"
- - 
+ - enlève le mot de passe de kiosk
+ - install les packages : "chromium-browser unclutter xdotool"
+ - ajout de l'auto lo
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTE2NjY0MSwtNDAwNjgxMTcwLDM5Nj
+eyJoaXN0b3J5IjpbLTEyODk3OTc1NCwtNDAwNjgxMTcwLDM5Nj
 E0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1
 LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
 -->
