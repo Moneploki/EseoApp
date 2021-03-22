@@ -1,6 +1,7 @@
 
 # linuxSensors
 le code C pour la communication avec l'arduino/traitement des infos 
+
 # Installation
 prendre la dernière release sur ce github
 
@@ -57,9 +58,9 @@ ce script fait dans l'ordre :
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjM2NzcwLDEzNjQ3NTg0MTUsLTE3MD
-E3MTkyNTUsLTE4ODk5MzU0ODMsMTg2MzA2NTU0LC01MjkzNzE3
-OTgsLTE2NzU3NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1NzksLT
-E1Mzc3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1MzM1
-NzUsLTE3MDIxMDg3ODRdfQ==
+eyJoaXN0b3J5IjpbLTQwODE2MDk3MiwxMzg2MzY3NzAsMTM2ND
+c1ODQxNSwtMTcwMTcxOTI1NSwtMTg4OTkzNTQ4MywxODYzMDY1
+NTQsLTUyOTM3MTc5OCwtMTY3NTc0ODc2NywtNDAwNjgxMTcwLD
+M5NjE0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEy
+MTI1LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
 -->
