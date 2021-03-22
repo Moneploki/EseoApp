@@ -43,12 +43,15 @@ ensuite faite la commande
     sudo ./install_script_YN.sh
 ce script fait dans l'ordre :
 
- - un copie 
+ - un copie de ma clé SSH (grosso merdo un accès a mon compte github pour pouvoir copier le code) dans le répertoir associé sur le root
+ - update les packages si besoin
+ - install les 
+ - 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ3OTc1MjMsLTE3MDE3MTkyNTUsLT
+eyJoaXN0b3J5IjpbLTE3MTIxMDQxNjUsLTE3MDE3MTkyNTUsLT
 E4ODk5MzU0ODMsMTg2MzA2NTU0LC01MjkzNzE3OTgsLTE2NzU3
 NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1NzksLTE1Mzc3ODA5MT
 UsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1MzM1NzUsLTE3MDIx
