@@ -25,12 +25,14 @@ Cette commande fait dans l'ordre :
  - ajout d'un utilisateur "kiosk"
  - enlève le mot de passe de kiosk
  - install les packages : "chromium-browser unclutter xdotool"
- - ajout de l'auto lo
+ - ajout de l'auto log dans kiosk
+ - ajout du autoStart qui va lancer le script kiosk.sh après chaque démarrage de "kiosk"
+ - ajout 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk3OTc1NCwtNDAwNjgxMTcwLDM5Nj
-E0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1
-LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
+eyJoaXN0b3J5IjpbMjE0NTk3OTEwLC00MDA2ODExNzAsMzk2MT
+QyNTc5LC0xNTM3NzgwOTE1LDExOTg4ODUzMDUsLTU0MTIxMjUs
+OTkxNTMzNTc1LC0xNzAyMTA4Nzg0XX0=
 -->
