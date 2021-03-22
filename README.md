@@ -36,14 +36,14 @@ Cette commande fait dans l'ordre :
 
     sudo -H gedit /home/kiosk/kiosk.sh
 
-ensuite cela une fois fait il vous 
+ensuite cela une fois fait il vous faudra changer d'utilisateur via l'interface graphique de base 
  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTQ0ODk1MSwtNTI5MzcxNzk4LC0xNj
-c1NzQ4NzY3LC00MDA2ODExNzAsMzk2MTQyNTc5LC0xNTM3Nzgw
-OTE1LDExOTg4ODUzMDUsLTU0MTIxMjUsOTkxNTMzNTc1LC0xNz
-AyMTA4Nzg0XX0=
+eyJoaXN0b3J5IjpbMTg2MzA2NTU0LC01MjkzNzE3OTgsLTE2Nz
+U3NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1NzksLTE1Mzc3ODA5
+MTUsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1MzM1NzUsLTE3MD
+IxMDg3ODRdfQ==
 -->
