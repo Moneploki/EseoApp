@@ -31,14 +31,14 @@ Cette commande fait dans l'ordre :
  
  
 
-> pour changer 
+> pour changer la page en fonction de la mairie il faudra modifier le fichier kiosk.sh et plus particulièrement l'url pré
 
  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI4ODc0NzYsLTQwMDY4MTE3MCwzOT
-YxNDI1NzksLTE1Mzc3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEy
-NSw5OTE1MzM1NzUsLTE3MDIxMDg3ODRdfQ==
+eyJoaXN0b3J5IjpbMTY0NzkzODIzNCwtNDAwNjgxMTcwLDM5Nj
+E0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1MzA1LC01NDEyMTI1
+LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
 -->
