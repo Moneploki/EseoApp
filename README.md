@@ -36,14 +36,15 @@ Cette commande fait dans l'ordre :
 
     sudo -H gedit /home/kiosk/kiosk.sh
 
-ensuite cela une fois fait il vous faudra changer d'utilisateur via l'interface graphique de base 
+ensuite cela une fois fait il vous faudra changer d'utilisateur via l'interface graphique de base et chosir l'utilisateur
+![comment changer utilisateur](https://i.ibb.co/tPgFz7m/tuto-linux-2.png)
  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzA2NTU0LC01MjkzNzE3OTgsLTE2Nz
-U3NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1NzksLTE1Mzc3ODA5
-MTUsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OTE1MzM1NzUsLTE3MD
-IxMDg3ODRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTgwNzMxNTIsMTg2MzA2NTU0LC01Mj
+kzNzE3OTgsLTE2NzU3NDg3NjcsLTQwMDY4MTE3MCwzOTYxNDI1
+NzksLTE1Mzc3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEyNSw5OT
+E1MzM1NzUsLTE3MDIxMDg3ODRdfQ==
 -->
