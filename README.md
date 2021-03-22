@@ -27,12 +27,18 @@ Cette commande fait dans l'ordre :
  - install les packages : "chromium-browser unclutter xdotool"
  - ajout de l'auto log dans kiosk
  - ajout du autoStart qui va lancer le script kiosk.sh après chaque démarrage de "kiosk"
- - ajout 
+ - ajout du script kiosk.sh qui lance automatiquement chromium sur la page d'accueil
+ 
+ 
+
+> pour changer 
+
+ 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTk3OTEwLC00MDA2ODExNzAsMzk2MT
-QyNTc5LC0xNTM3NzgwOTE1LDExOTg4ODUzMDUsLTU0MTIxMjUs
-OTkxNTMzNTc1LC0xNzAyMTA4Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE2NTI4ODc0NzYsLTQwMDY4MTE3MCwzOT
+YxNDI1NzksLTE1Mzc3ODA5MTUsMTE5ODg4NTMwNSwtNTQxMjEy
+NSw5OTE1MzM1NzUsLTE3MDIxMDg3ODRdfQ==
 -->
