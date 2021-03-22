@@ -36,12 +36,14 @@ Cette commande fait dans l'ordre :
 
     sudo -H gedit /home/kiosk/kiosk.sh
 
+ensuite cela une fois fait il vous 
  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTM3MTc5OCwtMTY3NTc0ODc2NywtND
-AwNjgxMTcwLDM5NjE0MjU3OSwtMTUzNzc4MDkxNSwxMTk4ODg1
-MzA1LC01NDEyMTI1LDk5MTUzMzU3NSwtMTcwMjEwODc4NF19
+eyJoaXN0b3J5IjpbMTg4OTQ0ODk1MSwtNTI5MzcxNzk4LC0xNj
+c1NzQ4NzY3LC00MDA2ODExNzAsMzk2MTQyNTc5LC0xNTM3Nzgw
+OTE1LDExOTg4ODUzMDUsLTU0MTIxMjUsOTkxNTMzNTc1LC0xNz
+AyMTA4Nzg0XX0=
 -->
